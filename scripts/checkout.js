@@ -92,7 +92,7 @@ cart.forEach((cartItem) => {
             </div>
             </div>
         </div>
-    </div
+    </div>
     `
 });
 
